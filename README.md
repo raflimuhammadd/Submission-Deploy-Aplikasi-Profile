@@ -7,7 +7,3 @@
 
 
 Terima Kasih.
-
-
-# Bookshelf API
-
